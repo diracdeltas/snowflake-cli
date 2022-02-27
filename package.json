@@ -1,6 +1,6 @@
 {
   "name": "snowflake-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI tool for https://snowflake.torproject.org/",
   "scripts": {
     "start": "node index.js",
