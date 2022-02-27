@@ -4,7 +4,7 @@
   "description": "CLI tool for https://snowflake.torproject.org/",
   "scripts": {
     "start": "node index.js",
-    "test": "test"
+    "test": "echo 'no test file yet'"
   },
   "author": "yan@mit.edu",
   "license": "MIT",

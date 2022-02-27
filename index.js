@@ -17,5 +17,5 @@ const embedUrl = 'https://snowflake.torproject.org/embed';
   setInterval(() => {
     // report on snowflake status
     page.evaluate('console.log(document.querySelector("#statustext").innerText)');
-  }, 5000);
+  }, 10000);
 })();
