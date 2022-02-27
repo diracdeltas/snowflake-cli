@@ -11,6 +11,10 @@
   },
   "author": "yan@mit.edu",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diracdeltas/snowflake-cli.git"
+  },
   "dependencies": {
     "puppeteer": "^13.4.0"
   }

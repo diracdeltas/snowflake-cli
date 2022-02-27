@@ -9,4 +9,4 @@ a headless browser to help censored users connect to the Tor network.
 npm install snowflake-cli
 ```
 
-then simply call `snowflake-cli` to start the proxy.
+then run `snowflake-cli` to start the proxy.
