@@ -6,6 +6,9 @@
     "start": "node index.js",
     "test": "echo 'no test file yet'"
   },
+  "bin": {
+    "snowflake-cli": "index.js"
+  },
   "author": "yan@mit.edu",
   "license": "MIT",
   "dependencies": {

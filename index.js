@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const puppeteer = require('puppeteer');
 const embedUrl = 'https://snowflake.torproject.org/embed';
 
