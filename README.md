@@ -1,7 +1,13 @@
 # snowflake-cli
 
-A simple npm module to run [Snowflake](https://snowflake.torproject.org/) in
+An npm module to run [Snowflake](https://snowflake.torproject.org/) in
 a headless browser to help censored users connect to the Tor network.
+
+Note: depending on your environment, it may be simpler to run Snowflake using
+[Docker/Ansible or compiling the golang
+source](https://community.torproject.org/relay/setup/snowflake/standalone/).
+You can also consider running an [obfs4
+bridge](https://community.torproject.org/relay/setup/bridge/).
 
 ## installation
 
